@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelilahBKM
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning full stack web developement
+- 🌱 I’m currently mastering full stack web developement
 - 💞️ I’m looking to collaborate on any full stack projects
 - 📫 How to reach me boukhatem.abdelilah@outlook.com
 
